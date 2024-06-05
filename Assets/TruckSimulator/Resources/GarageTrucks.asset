@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b4bcd054a103064fa1c4501f2ae49c7, type: 3}
+  m_Name: GarageTrucks
+  m_EditorClassIdentifier: 
+  garageTrucks:
+  - garageTruck: {fileID: 4489539509285005956, guid: 8747d73bfd34d38469e46315c10734f3, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: 23499f69061be474e825db7caa50e594, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: 82f9b059ad9a79642bf0af2d0fe0586d, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: 2493885a2218b774d9284c1ac1c9c828, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: 1a649832e8923bf48a0c85e2eb7ed9a3, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: d311631415674a74495c9edb8e7c335d, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: 614d9258edef95249a289371b32d90c4, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: dd4d7525e88f1d3479e5c245ac595c5e, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: c9715998a46f52c48a2475941460636c, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: b42a95cf0d4121c449161b88205415a5, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: 6fa306c9f7182ae44af80d82a06b6a60, type: 3}
+  - garageTruck: {fileID: 4489539509285005956, guid: b30a0aa40fcfbd847a5899f576ea540a, type: 3}

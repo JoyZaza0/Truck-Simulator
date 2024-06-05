@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2bf985a33bba4a42b1e66733fa28858, type: 3}
+  m_Name: Upgradables
+  m_EditorClassIdentifier: 
+  upgradable:
+  - sunshade: {fileID: 5429827489639699440, guid: e799d252878b3a441b7dc16e87fda9b4, type: 3}
+    priceOfSunshade: 100
+    bullbar: {fileID: 7544025153830861469, guid: 97bd09a62307fe84b93e204ff091fbab, type: 3}
+    priceOfbullbar: 100
+    topbar: {fileID: 6754944101880723848, guid: 1fed6b90d056588429931e990f411e83, type: 3}
+    priceOftopbar: 100
+    lowbar: {fileID: 7714149873153648583, guid: 7f8701dd2e232e24ca87c84b88daa572, type: 3}
+    priceOflowbar: 100
+    other: {fileID: 6014733497639393265, guid: 1c38e4ba172804d478b5d002e4f2a591, type: 3}
+    priceOfother: 100
+  - sunshade: {fileID: 7343091246011653418, guid: 5874656b507aedd4494d129e6758c4f9, type: 3}
+    priceOfSunshade: 100
+    bullbar: {fileID: 2266887014628303451, guid: 5fcbc1bd6f35df7428a39ac1ba5b90ed, type: 3}
+    priceOfbullbar: 100
+    topbar: {fileID: 2281825434287599599, guid: 3a617d11b95e2744f97b161129afb70b, type: 3}
+    priceOftopbar: 100
+    lowbar: {fileID: 5098295881621155403, guid: 1de71231ff7e12c4791b106cf201053b, type: 3}
+    priceOflowbar: 100
+    other: {fileID: 7835022422336769895, guid: d90965ca25706814e970acf2348bb992, type: 3}
+    priceOfother: 100
+  - sunshade: {fileID: 3040384923196922386, guid: bf48b2ee41073654583bb7b9b3245ea2, type: 3}
+    priceOfSunshade: 100
+    bullbar: {fileID: 464599031809886111, guid: 2228d2c4a676a6441b4e3299c02855a3, type: 3}
+    priceOfbullbar: 100
+    topbar: {fileID: 4000208295754014840, guid: ec4d145155bf45245a51cb5abd12dd09, type: 3}
+    priceOftopbar: 100
+    lowbar: {fileID: 218561177425050660, guid: c907de081fb3d6848965b842f6546785, type: 3}
+    priceOflowbar: 100
+    other: {fileID: 4638981816473771325, guid: dde9d8a534fa4ce4fbb2ffa299db0511, type: 3}
+    priceOfother: 100
+  - sunshade: {fileID: 1185513583059298638, guid: b6bf871911ed7574abb02a37c26d011d, type: 3}
+    priceOfSunshade: 100
+    bullbar: {fileID: 1842568717039776669, guid: 031f71f03f4bedd429f2f7c310171511, type: 3}
+    priceOfbullbar: 100
+    topbar: {fileID: 3582549062753110315, guid: 31159324a11a93e488e49b026247e7a1, type: 3}
+    priceOftopbar: 100
+    lowbar: {fileID: 5473841938524734097, guid: 11916a5e5931e2e4ca9c729b9b181c69, type: 3}
+    priceOflowbar: 100
+    other: {fileID: 4206435646604997618, guid: 4fb2dc0ed07f05f4a85848e618c73edd, type: 3}
+    priceOfother: 100
+  - sunshade: {fileID: 1105983101307444948, guid: a2a7c9aa83895c144933092e37e60b93, type: 3}
+    priceOfSunshade: 100
+    bullbar: {fileID: 1797343367184356200, guid: 8d040d949e1023a42845cdc618cfcd81, type: 3}
+    priceOfbullbar: 100
+    topbar: {fileID: 5218338691938006532, guid: 830f6c94b2f69ad46b85e723230ba8c1, type: 3}
+    priceOftopbar: 100
+    lowbar: {fileID: 1168389124074440830, guid: ccc72d06e19a39447a1ff8dea249b8f7, type: 3}
+    priceOflowbar: 100
+    other: {fileID: 4450845250499942112, guid: 2e7fb8ddec391404aa5af1fb6f17849f, type: 3}
+    priceOfother: 100

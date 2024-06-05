@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ae1a251bb859a498acf7d447c67a00, type: 3}
+  m_Name: TruckPaints
+  m_EditorClassIdentifier: 
+  paint:
+  - paintMaterial: {fileID: 2100000, guid: 2b0db7d87b1c5244b9aeecbdd6032fd0, type: 2}
+    paintPrice: 100
+  - paintMaterial: {fileID: 2100000, guid: 1fe26b409440f564498abceaf447babe, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 915b6cebde562674a8c84e3ebb28d964, type: 2}
+    paintPrice: 130
+  - paintMaterial: {fileID: 2100000, guid: 9e17048831337644e85cea14c3900003, type: 2}
+    paintPrice: 90
+  - paintMaterial: {fileID: 2100000, guid: c6b01038610a6454d8363294464634a2, type: 2}
+    paintPrice: 110
+  - paintMaterial: {fileID: 2100000, guid: 4775e906762f0a14bb7f540959ec71f7, type: 2}
+    paintPrice: 100
+  - paintMaterial: {fileID: 2100000, guid: d7b256dae54c82f43aeebf2a606ff80e, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: e06d753b0c66ca6438d8ab8f4dcea46c, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 00e135557bee96b4d92fa4b456ec4416, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 57592dcabafcd2c45bfe58e9cde2c61a, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: f896032dc2e08364eabbfb8f38a3b370, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 9e1684b38c4f8b844836b22840e71465, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 98d06ca99492c5747a83e66b5062b236, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 779f4d39ec2fc4e43b68e53897c65fd9, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: f26f95d09375bae429c4dd67c8fa4570, type: 2}
+    paintPrice: 120
+  - paintMaterial: {fileID: 2100000, guid: 75082791e5a62b943a6c88adf8a54679, type: 2}
+    paintPrice: 120

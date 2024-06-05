@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d6514bcceb5b54eb86c2240c67e441, type: 3}
+  m_Name: PlayerTrucks
+  m_EditorClassIdentifier: 
+  playerTrucks:
+  - playerTruck: {fileID: 8954225767911463814, guid: 72f19fdd724fedf4b9c58be5170f6e0a, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: e1ad4271b0481d540a5d2a1dc3f3aea5, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: ec93dc96308f3c24faede633336e0e0d, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: 41eb4603d63f2544e893aec54feac726, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: d1a8f441adc777949985a8666373f312, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: caf8ee737a228724ca13af5db354214d, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: 0b0ad8052b4ff6d4e94acf14b0a216e5, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: 785cbd1ea0465664aa4d46287124ae27, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: f57d890d71ca1294595029a03bf012bc, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: 808591b5d2456e64fbf09aacb87a27a9, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: 9baaffecda8c8e24eb01602bcca715a7, type: 3}
+  - playerTruck: {fileID: 8954225767911463814, guid: 1285238df00ba8b45842489ae1e33f06, type: 3}
